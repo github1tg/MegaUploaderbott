@@ -1,0 +1,8 @@
+telethon
+mega.py
+dnspython
+pymongo
+requests
+cryptg
+pytube
+pySmartDL

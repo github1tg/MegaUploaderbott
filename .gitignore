@@ -1,0 +1,11 @@
+#Session File
+MegaUploader.session
+
+#Cache File
+__pycache__/
+
+#Test files
+testexp/
+
+#Status File
+task.txt
