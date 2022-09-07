@@ -13,8 +13,8 @@ from plugins.helper import line_number
 class Login:
     
     def __init__(self, email, password):
-        self.email = email  #Email of Mega Account
-        self.password = password    #Password of Mega Account
+        self.email = balouch100@proton.me  #Email of Mega Account
+        self.password = S55764092b#    #Password of Mega Account
         self.mega_login()
     
     def mega_login(self):
